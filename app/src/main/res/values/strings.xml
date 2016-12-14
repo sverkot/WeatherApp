@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_chart">ChartActivity</string>
+    <string name="title_main">Today\'s Forecast for Dallas, TX</string>
+    <string name="hello_world">Hello</string>
+    <string name="no_forecast">No Forecasts</string>
+    <string name="draw_chart">Draw Chart</string>
+    <string name="no_task">No Task</string>
+    <string name="image">image</string>
+</resources>
